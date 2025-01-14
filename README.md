@@ -42,7 +42,7 @@ MyDataClass loadedDataAsync = await SaveLoadManager<MyDataClass>.LoadAsync("save
 If you encounter any issues, please email us at [arda.kzn@gmail.com](mailto:arda.kzn@gmail.com) or visit the GitHub Issues page.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Version Information
 
