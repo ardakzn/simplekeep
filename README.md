@@ -12,9 +12,11 @@
 
 ## Installation
 
-1. **Download from the Asset Store**: Download the asset from Unity Asset Store.
-2. **Add to Your Project**: Drag the downloaded files into your Unity Editor to include the asset in your project.
+1. **Download Asset**: Download the asset from GitHub.
+2. **Add to Your Project**: Drag the downloaded file named **"SimpleKeep"** into your Unity Editor to include the asset in your project.
 3. **Ready to Use**: Start using the `SimpleKeep` script immediately.
+
+You can reach .dll format this plugin by this [SimpleKeep Asset Store Link](https://assetstore.unity.com/packages/your-package-link)
 
 ## Usage Examples
 
